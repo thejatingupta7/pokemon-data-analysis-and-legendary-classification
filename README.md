@@ -25,6 +25,14 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+## Usage
+
+1. Download the data as specified in the repository
+2. Run the notebook.
+
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENSE) file for details.
+
+## Author
+* Jatin Gupta
